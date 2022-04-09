@@ -1,0 +1,37 @@
+h1{
+    color:goldenrod;
+}
+body{
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      
+       text-align: center;
+       background-image: url("black.jpg");
+       background-size: cover;
+       color:white;
+       font-weight:blanchedalmond;
+       
+}
+#message-al{
+     font-style: oblique;
+}
+
+button{
+    color:#0d5a30;
+    width:150px;
+    background: rgb(230, 198, 118);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: bold;
+    border: 10px;
+    margin-bottom: 6px;
+}
+#button2{
+    text-color:#43ac72;
+    width:150px;
+    background: rgb(230, 198, 118);
+    padding-bottom: 5px;
+    padding-top: 30px;
+    font-weight: bold;
+    border: 10px;
+    margin-top: 4px;
+}
